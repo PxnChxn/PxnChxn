@@ -20,13 +20,13 @@ Punjaii: A community-focused social platform
 ## Certifications
 I have earned certifications as an IT specialist in several areas:
 - **Data Analytics Specialist** 📊  
-  ![Data Analytics Certification](url-to-your-certificate-image)
+  ![Data Analytics Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/1.jpeg)
 
 - - **Databases Specialist** 📈  
-  ![Data Analytics Certification](url-to-your-certificate-image)
+  ![Data Analytics Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/2.jpeg)
 
 - **Cybersecurity Specialist** 🔐  
-  ![Cybersecurity Certification](url-to-your-certificate-image)
+  ![Cybersecurity Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/4.jpeg)
 
 - **HTML & CSS Web Development** 💻  
-  ![HTML & CSS Certification](url-to-your-certificate-image)
+  ![HTML & CSS Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/3.jpeg)
