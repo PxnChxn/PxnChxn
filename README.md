@@ -22,7 +22,7 @@ I have earned certifications as an IT specialist in several areas:
 - **Data Analytics Specialist** 📊  
   ![Data Analytics Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/1.jpeg)
 
-- - **Databases Specialist** 📈  
+- **Databases Specialist** 📈  
   ![Data Analytics Certification](https://github.com/PxnChxn/PxnChxn/blob/main/assets/2.jpeg)
 
 - **Cybersecurity Specialist** 🔐  
