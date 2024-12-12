@@ -5,9 +5,9 @@ I'm Chananya Sunthonphrao (Pan). I'm a passionate web developer and co-founder w
 
 ## Previous project
 Showcasing some of my mega projects, including:
-Polaris: An education web platform
-The Eye: A social web for dynamic interaction
-Punjaii: A community-focused social platform
+- Polaris: An education web platform
+- The Eye: A social web for dynamic interaction
+- Punjaii: A community-focused social platform
 
 
 ## 🌱 Currently Learning
